@@ -11,7 +11,8 @@ Com base nas classes criadas no exercício anterior, instancie 2 objetos para ca
 
 ## Exercício 7
 Crie uma classe chamada Caixa que faça venda de produtos, conforme o layout em anexo. A função da venda deverá acrescer o valor do produto no saldo, e deverá retornar o valor do novo saldo.
-Faça também uma classe para testes que instancie o objeto Caixa e invoque a função venda.
+Faça também uma classe para testes que instancie o objeto Caixa e invoque a função venda.<br>
+![Classe-caixa](https://github.com/wastecoder/poo-lista2/assets/101117204/a8e9447d-20c1-4302-ae6d-68a9b0165687)
 
 
 ## Exercício 8
